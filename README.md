@@ -1,4 +1,4 @@
-# screenshot
+# rice
 
 <div align="center">
   <img src="screenshot4.png" width="100%" />
