@@ -23,5 +23,5 @@ sudo make clean install
 "done"
 
 <div align="center">
-  <img src="screenshots/screenshot 4.jpg" width="100%" />
+  <img src="screenshots/screenshot4.jpg" width="100%" />
 </div>
