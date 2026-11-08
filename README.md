@@ -30,5 +30,5 @@ sudo make clean install
 
 # again Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshot/screenshot1.png)
+![Screenshot 2](screenshot/screenshot2.png)
