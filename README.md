@@ -1,4 +1,4 @@
-"installation"
+# installation
 
 git clone https://github.com/Ewixsis/lvnd-rice.git
 
@@ -10,17 +10,17 @@ sudo make clean install
 
 cd
 
-cd lvnd-rice/st*
+cd lvnd-rice/st-9.3
 
 sudo make clean install
 
 cd
 
-cd lvnd-rice/dmenu*
+cd lvnd-rice/dmenu-5.4
 
 sudo make clean install
 
-"done"
+# done
 
 <div align="center">
   <img src="screenshot4.png" width="100%" />
