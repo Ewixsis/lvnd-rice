@@ -27,8 +27,9 @@ cd lvnd-rice/dmenu-5.4
 sudo make clean install
 
 # done
+## Screenshots
 
-# again Screenshots
-
-![Screenshot 1](screenshot/screenshot1.png)
-![Screenshot 2](screenshot/screenshot2.png)
+| | |
+|:---:|:---:|
+| ![](screenshot/screenshot1.png) | ![](screenshot/screenshot2.png) |
+| ![](screenshot/screenshot3.png) | ![](screenshot/screenshot4.png) |
