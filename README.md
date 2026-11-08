@@ -28,6 +28,9 @@ sudo make clean install
 
 # done
 
-<div align="center">
-  <img src="screenshot4.png" width="100%" />
-</div>
+# again Screenshots
+
+| | |
+|:---:|:---:|
+| ![](screenshots/screenshot1.png) | ![](screenshots/screenshot2.png) |
+| ![](screenshots/screenshot3.png) | ![](screenshots/screenshot4.png) |
