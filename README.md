@@ -3,6 +3,7 @@
 <div align="center">
   <img src="screenshot4.png" width="100%" />
 </div>
+  
 ## for debian-based 
 
 sudo apt install libxft-dev libx11-dev libxinerama-dev
