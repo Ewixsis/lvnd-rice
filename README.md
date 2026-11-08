@@ -1,3 +1,9 @@
+# screenshot
+
+<div align="center">
+  <img src="screenshot4.png" width="100%" />
+</div>
+
 # installation
 
 git clone https://github.com/Ewixsis/lvnd-rice.git
