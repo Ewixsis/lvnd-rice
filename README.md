@@ -6,7 +6,7 @@
   
 # for debian-based 
 
-## sudo apt install libxft-dev libx11-dev libxinerama-dev build-essential
+## sudo apt install libxft-dev libx11-dev libxinerama-dev build-essential xwallpaper picom
 
 # installation
 
